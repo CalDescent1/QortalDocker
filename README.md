@@ -14,7 +14,7 @@ Create some container instances, in this case 3:
 ./run.sh 3
 ```
 
-The first container will use ports 62401 and 62402. Each additional container will increase these by 10, so the second would use 62401 and 62402, the third would use 62411 and 62412, etc.
+The first container will use ports 62401 and 62402. Each additional container will increase these by 10, so the second would use 62411 and 62412, the third would use 62421 and 62422, etc.
 
 
 List the running containers:
